@@ -7,7 +7,7 @@ console.log(value);
 if (value > 0) {
   console.log('wynik dodatni');
 } 
-else if (value = 0) {
+else if (value == 0) {
   console.log('wynik to 0');
 } 
 else {
